@@ -37,3 +37,5 @@ https://swestack.bles-software.com
 
 MIT (see LICENSE). Includes material adapted from pstack, MIT, (c) 2026 Lauren Tan
 (see LICENSE-pstack.txt).
+
+New free skills and pack updates by email: https://swestack.bles-software.com/#email
